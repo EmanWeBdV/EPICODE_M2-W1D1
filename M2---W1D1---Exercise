@@ -1,0 +1,9 @@
+//Domanda 1 - Cos'è un algoritmo? Prova a spiegarlo con parole tue, come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+Risposta_Domanda 1 - Un algoritmo è come un libretto di istruzioni per eseguire un una determinata azione al fine di eseguirla correttamente. Quindi i passaggi da seguire in ordine per ottenre un determinato risultato. 
+
+//Domanda 2 - Cos'è una variabile? Prova a spiegarlo con parole tue, come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+Risposta_Domanda 2 - Immagina una variabile come un contenitore. All'interno del contenitore tu vai ad inserire un determinato elemento. Immagina ad esempio un portapenne, il portapenne è un contenitore dove all'interno vai ad inserire la tua cancelleria, la variabile è come il portapenne, un contenitore dove tu vai ad inserire le cose all'interno. Quindi ad esempio, proviamo a dichiarare una varibile, propriod del portapenne: "let portapenne = oggetti". in quel caso tu hai dichiarato una varibile, con il nome di portapenne e all'interno ho messo una stringa di testo che è "oggetti". Ovviamente la sintassi corretta è quella di richiudere il testo con i doppi apici.
+
+
+//Domanda 3 - undefined e null sono la stessa cosa?
+Risposta_Domanda 3 - Si, questo perché quando noi andiamo a dichiarare una variabile ad esempio: "let zucchero" e non ne dichiariamo il contenuto, è priva di esso e di conseguenza vuoto. Se invece dichiariamo una variabile indicando null come ad esempio: "let zucchero = null" in quel caso stiamo dicendo che la variabile è priva di contenuto e anche del tipo di contenuto, proprio come undefined dice che non è definito e privo di contenuto.
